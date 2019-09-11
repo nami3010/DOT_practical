@@ -1,11 +1,11 @@
 # DOT_practical
-Backend
+##Backend
 backed is running on port 8085
 steps:
 1)npm init
 2)nodemon
 
-Frontend
+##Frontend
 will be defaultly running on 4200
 steps:
 1)ng serve --open 
