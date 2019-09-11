@@ -3,12 +3,12 @@
 
 
 # # Backend
-backed is running on port 8085
-steps:
-1)npm init
-2)nodemon
+backed is running on port 8085 <br/>
+steps: <br/>
+1)npm init <br/>
+2)nodemon <br/>
 
 # # Frontend
-will be defaultly running on 4200
-steps:
-1)ng serve --open 
+will be defaultly running on 4200 <br/>
+steps: <br/>
+1)ng serve --open  
